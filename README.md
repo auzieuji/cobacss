@@ -1,2 +1,2 @@
 # cobacss
-saya masih coba-coba
+css and html practice
